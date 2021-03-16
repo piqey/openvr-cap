@@ -1,7 +1,7 @@
 #include "openvr-cap.h"
 
 // OpenVR variables
-TrackedDevicePose_t tracked_device_pos[k_unMaxTrackedDeviceCount];
+//TrackedDevicePose_t tracked_device_pos[k_unMaxTrackedDeviceCount];
 
 int main()
 {
